@@ -1,0 +1,227 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.page-intro {
+  max-width: 800px;
+  margin: 0 auto 40px;
+  text-align: center;
+}
+
+
+/* BODY TEXT */
+body {
+  font-family: 'Arapey', Georgia, serif;
+  line-height: 1.6;
+  background-color: #ffffff;
+  color: #333;
+}
+
+/* HEADINGS */
+h1, h2, h3 {
+  font-family: 'Instrument Serif', 'Times New Roman', serif;
+}
+
+/* HEADER */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+
+.logo {
+  font-size: 1.5rem;
+  font-family: 'Instrument Serif', serif;
+  color: #ed1585; /* bright pink */
+}
+
+/* BRANDING (LOGO + NAME) */
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.brand img {
+  height: 40px;
+  width: auto;
+}
+
+.brand-name {
+  font-family: 'Instrument Serif', serif;
+  font-size: 1.5rem;
+  color: #ed1585;
+}
+
+/* NAVIGATION */
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 400;
+}
+
+nav a:hover {
+  color: #ed1585;
+}
+
+/* MAIN CONTENT */
+main {
+  padding: 40px;
+}
+
+
+.page-intro {
+  max-width: 800px;
+  margin-bottom: 40px;
+}
+
+.page-intro h1 {
+  font-size: 2.5rem;
+  margin-bottom: 15px;
+}
+
+.page-intro p {
+  font-size: 1.1rem;
+}
+
+/* PROJECTS */
+.projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 30px;
+}
+
+.project {
+  padding: 20px;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+}
+
+.project h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #ed1585;
+}
+
+.project p {
+  margin-bottom: 10px;
+}
+
+.project a {
+  color: #f54927; /* bright orange */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.project a:hover {
+  text-decoration: underline;
+}
+
+.project img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin-bottom: 15px;
+  border: 1px solid #e0e0e0;
+}
+
+/* ABOUT PAGE LAYOUT */
+.about-content {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 40px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.about-image img {
+  width: 100%;
+  border-radius: 6px;
+  border: 1px solid #e0e0e0;
+}
+
+.about-text p {
+  margin-bottom: 15px;
+  font-size: 1.05rem;
+}
+
+/* SKILLS SECTION */
+.skills h2 {
+  margin-top: 30px;
+  margin-bottom: 15px;
+  font-size: 1.6rem;
+  color: #e94b8a;
+}
+
+.skills-list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 10px;
+}
+
+.skills-list li {
+  padding: 8px 12px;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  font-size: 0.95rem;
+  background-color: #fafafa;
+}
+
+/* MOBILE STACKING */
+@media (max-width: 768px) {
+  .about-content {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #f5f5f5;
+  font-size: 0.9rem;
+}
+
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+/* SOCIAL LINKS */
+.social-links {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+
+.social-links a {
+  text-decoration: none;
+  font-family: 'Arapey', serif;
+  color: #333;
+  font-size: 0.95rem;
+}
+
+.social-links a:hover {
+  color: #ed1585;
+}
+
+
