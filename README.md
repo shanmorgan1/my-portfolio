@@ -1,7 +1,7 @@
 # my-portfolio
 my personal portfolio
 
-# Hi there, I'm Shannon Rifkin
+# Hi there, I'm Shannon Morgan
 
 Welcome to my GitHub portfolio! This is where I showcase my projects, skills, and passion for web and UX development.
 
