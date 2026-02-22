@@ -19,7 +19,7 @@ I'm a web and UX developer with experience in building responsive, user-friendly
 ## Skills
 
 - **Frontend:** HTML5, CSS3, JavaScript, CSS
-- **Backend:** Node.js, Express, SQL, MongoDB
+- **Backend:** Node.js, Express, SQL
 - **Tools & Platforms:** Git, GitHub, Figma, VS Code, Chrome DevTools
 - **UX & Design:** User research, wireframing, prototyping, usability testing
 
