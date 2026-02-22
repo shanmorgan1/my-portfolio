@@ -11,7 +11,7 @@ Welcome to my GitHub portfolio! This is where I showcase my projects, skills, an
 
 I'm a web and UX developer with experience in building responsive, user-friendly applications. I enjoy turning complex problems into simple, elegant solutions and love exploring the latest in web technologies.
 
-- I’m currently working on improving my **JavaScript and React** skills.
+- I’m currently working on improving my **JavaScript** skills.
 - I’m learning **full-stack development** and advanced UX design principles.
 - I enjoy **designing clean interfaces, optimizing user experiences**, and creating interactive web apps.
 ---
