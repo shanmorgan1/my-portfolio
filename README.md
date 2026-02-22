@@ -14,13 +14,11 @@ I'm a web and UX developer with experience in building responsive, user-friendly
 - I’m currently working on improving my **JavaScript and React** skills.
 - I’m learning **full-stack development** and advanced UX design principles.
 - I enjoy **designing clean interfaces, optimizing user experiences**, and creating interactive web apps.
-- Fun fact: I love combining creativity with code to make meaningful digital experiences.
-
 ---
 
 ## Skills
 
-- **Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS
+- **Frontend:** HTML5, CSS3, JavaScript, CSS
 - **Backend:** Node.js, Express, SQL, MongoDB
 - **Tools & Platforms:** Git, GitHub, Figma, VS Code, Chrome DevTools
 - **UX & Design:** User research, wireframing, prototyping, usability testing
@@ -33,11 +31,10 @@ Here are a few of my featured projects:
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Portfolio Website | My personal portfolio showcasing projects and skills | [View](https://github.com/yourusername/portfolio) |
-| Task Manager App | A full-stack app to track daily tasks | [View](https://github.com/yourusername/task-manager) |
-| E-commerce UI | A responsive e-commerce website UI design | [View](https://github.com/yourusername/ecommerce-ui) |
+| Portfolio Website | My personal portfolio showcasing projects and skills | [View](https://github.com/yourusername/my-portfolio) |
+| Vicious Cycles Site| A e-commerce, business website educating people on bicycles | [View]](https://github.com/shanmorgan1/ViciousCyclesProject)) |
 
-You can check out all my projects in the [repositories section](https://github.com/yourusername?tab=repositories).
+You can check out all my projects in the [repositories section](https://github.com/shanmorgan1?tab=repositories).
 
 ---
 
