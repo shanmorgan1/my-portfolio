@@ -161,7 +161,7 @@ main {
   margin-top: 30px;
   margin-bottom: 15px;
   font-size: 1.6rem;
-  color: #e94b8a;
+  color: #ed1685
 }
 
 .skills-list {
@@ -222,6 +222,7 @@ footer {
 .social-links a:hover {
   color: #ed1585;
 }
+
 
 
 
