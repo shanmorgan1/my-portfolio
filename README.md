@@ -32,7 +32,7 @@ Here are a few of my featured projects:
 | Project | Description | Link |
 |---------|-------------|------|
 | Portfolio Website | My personal portfolio showcasing projects and skills | [View](https://github.com/yourusername/my-portfolio) |
-| Vicious Cycles Site| A e-commerce, business website educating people on bicycles | [View]](https://github.com/shanmorgan1/ViciousCyclesProject)) |
+| Vicious Cycles Site| A e-commerce, business website educating people on bicycles | [View](https://github.com/shanmorgan1/ViciousCyclesProject) |
 
 You can check out all my projects in the [repositories section](https://github.com/shanmorgan1?tab=repositories).
 
@@ -40,9 +40,9 @@ You can check out all my projects in the [repositories section](https://github.c
 
 ## Contact Me
 
-- Email: your.email@example.com  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: shannon.rifkin@gmail.com
+- LinkedIn: [LinkedIn](www.linkedin.com/in/shannon-rifkin)  
+- Instagram: [@shan_rifkin](https://instagram.com/shan_rifkin)
 
 ---
 
