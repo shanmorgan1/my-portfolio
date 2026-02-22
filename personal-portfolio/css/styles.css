@@ -83,7 +83,6 @@ main {
 
 
 .page-intro {
-  max-width: 800px;
   margin-bottom: 40px;
 }
 
@@ -223,5 +222,6 @@ footer {
 .social-links a:hover {
   color: #ed1585;
 }
+
 
 
