@@ -41,7 +41,7 @@ You can check out all my projects in the [repositories section](https://github.c
 ## Contact Me
 
 - Email: shannon.rifkin@gmail.com
-- LinkedIn: [LinkedIn](www.linkedin.com/in/shannon-rifkin)  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shannon-rifkin)  
 - Instagram: [@shan_rifkin](https://instagram.com/shan_rifkin)
 
 ---
